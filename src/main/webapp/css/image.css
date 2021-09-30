@@ -1,0 +1,51 @@
+h3{
+    border: 1px;
+    text-align: center;
+    border-bottom: 1px solid;
+}
+.btn1{
+    margin-left: 30.125rem;
+}
+.btn2{
+    margin-left: 0.5rem;
+}
+table,
+thead,
+tbody,
+tr {
+    width:70%;
+    margin: auto;
+    border-left: none;
+    border-right: none;
+    align-content: center;
+}
+
+td {
+    align-self: center;
+    width: auto;
+}
+
+.img {
+    height: 7em;
+    width: 11em;
+}
+
+.serial{
+    width: 50px;
+}
+
+.preview {
+    width: 100px;
+}
+
+.action {
+    width: 1.625rem;
+}
+
+.cancel {
+    margin-left: 1rem;
+}
+
+.wrong {
+    color: red;
+}

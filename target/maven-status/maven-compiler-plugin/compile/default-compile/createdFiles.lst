@@ -1,0 +1,7 @@
+com\nagarro\main\Main.class
+com\nagarro\entity\images\Images.class
+com\nagarro\servlet\EditServlet.class
+com\nagarro\queries\Queries.class
+com\nagarro\servlet\Servlet.class
+com\nagarro\hibernate\HibernateUtil.class
+com\nagarro\entity\users\Users.class
